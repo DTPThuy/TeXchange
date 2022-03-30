@@ -5,7 +5,7 @@ IOBC 2022
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/alijumaan/laravel-ecommerce.git
+   git clone https://github.com/DTPThuy/TeXchange.git
    ```
 2. Install Composer packages
    ```sh
